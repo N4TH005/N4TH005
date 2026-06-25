@@ -1,17 +1,27 @@
-## ¡Hola! 👋
+<div align="center">
 
-Soy **Nathaly Reyes**, estudiante de **Desarrollo de Software**. Me apasiona el diseño, soy amante de los gatos 🐱 y del café ☕.
+# ¡Hola! 👋 Soy Nathaly Reyes
 
-### 💭 Frase favorita
+### 💻 Estudiante de Desarrollo de Software
 
-> "Suponer es la mayor forma de desinterés que existe."
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Y4eTV6YmM5cjl2YTBnNXR2eHZ3eGtwdWJsbDRsNm81cW9mYmE0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="200">
 
-### 🚀 Sobre mí
+✨ Apasionada por el diseño 🎨  
+🐱 Amante de los gatos  
+☕ Fanática del café  
 
-- 💻 Estudiante de Desarrollo de Software.
-- 🎨 Me gusta el diseño y la creatividad.
-- 🐱 Amante de los gatos.
-- ☕ Fanática del café.
-- 📚 Siempre aprendiendo nuevas tecnologías y herramientas.
+</div>
 
--->
+---
+
+## 🚀 Sobre mí
+
+```javascript
+const nathaly = {
+    profesion: "Estudiante de Desarrollo de Software",
+    pasion: "Diseño",
+    mascotasFavoritas: "Gatos 🐱",
+    bebidaFavorita: "Café ☕",
+    aprendiendo: ["Desarrollo Web", "Bases de Datos", "Programación"]
+};
+
