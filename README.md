@@ -1,16 +1,17 @@
-## Hi there 👋
+## ¡Hola! 👋
 
-<!--
-**N4TH005/N4TH005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Nathaly Reyes**, estudiante de **Desarrollo de Software**. Me apasiona el diseño, soy amante de los gatos 🐱 y del café ☕.
 
-Here are some ideas to get you started:
+### 💭 Frase favorita
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> "Suponer es la mayor forma de desinterés que existe."
+
+### 🚀 Sobre mí
+
+- 💻 Estudiante de Desarrollo de Software.
+- 🎨 Me gusta el diseño y la creatividad.
+- 🐱 Amante de los gatos.
+- ☕ Fanática del café.
+- 📚 Siempre aprendiendo nuevas tecnologías y herramientas.
+
 -->
