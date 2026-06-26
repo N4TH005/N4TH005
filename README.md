@@ -12,7 +12,8 @@
 
 ## 💭 Frase favorita
 
-> "Suponer es la mayor forma de desinterés que existe."
+> "El Suponer es la mayor forma de desinterés que existe."
+> - Anónimo.
 
 ## 🚀 Actualmente
 
