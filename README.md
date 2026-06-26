@@ -1,10 +1,8 @@
-# ¡Hola! 👋
+# ¡Hola! 🌻
 
 ## Soy Nathaly Reyes
 
 💻 Estudiante de Desarrollo de Software.
-
-🎨 Me encanta el diseño.
 
 🐱 Amante de los gatos.
 
@@ -13,7 +11,7 @@
 ## 💭 Frase favorita
 
 > "El Suponer es la mayor forma de desinterés que existe."
-> - Anónimo.
+> -Anónimo.
 
 ## 🚀 Actualmente
 
